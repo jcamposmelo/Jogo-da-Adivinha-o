@@ -1,2 +1,4 @@
-# Jogo-da-Adivinha-o
+
+
+# Jogo da Adivinhação
 Aplicação web em formato de jogo onde o console sorteia um número aleatório e o usuário tenta adivinhar em menos tentativas possíveis.
