@@ -12,7 +12,7 @@ O Jogo da Adivinhação é um jogo divertido e foi construído de forma lúdica 
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-As técnicas e tecnologias utilizadas pra isso são:
+As técnicas e tecnologias utilizadas foram:
 
 - `HTML`: criação dos elementos da tela;
 - `CSS`: estilização da aplicação;
