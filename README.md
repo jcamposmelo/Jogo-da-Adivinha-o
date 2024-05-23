@@ -8,6 +8,8 @@ Aplicação web em formato de jogo onde o console sorteia um número aleatório 
 
 O Jogo da Adivinhação é um jogo divertido e foi construído de forma lúdica ao mesmo tempo que instrui boas práticas do desenvolvimento web.
 
+![image](https://github.com/jcamposmelo/Jogo-da-Adivinha-o/assets/101723959/f739169b-01d2-43dd-931f-01e4700e0f3a)
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias utilizadas pra isso são:
