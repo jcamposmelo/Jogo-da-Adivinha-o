@@ -1,4 +1,4 @@
-![image](https://github.com/jcamposmelo/Jogo-da-Adivinha-o/assets/101723959/94ddde27-06f1-4c23-bd88-38587e9ea7b5)
+![image](https://github.com/jcamposmelo/Jogo-da-Adivinha-o/assets/101723959/741370f7-2fa2-46fa-ae09-5948741b7e8d)
 
 # Jogo da Adivinhação
 
